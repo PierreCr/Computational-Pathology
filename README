@@ -1,12 +1,17 @@
 Sandbox for Digital and Computational Pathology applications
 Exploring tools and various packages
 
+Useful packages:
+openslide: https://openslide.org
+json: https://docs.python.org/3/library/json.html#
+shapely: https://shapely.readthedocs.io/en/stable/#
+Scikit-learn: https://scikit-learn.org/stable/index.html
+torch and torchvision: https://docs.pytorch.org/docs/2.14/torch.html / https://docs.pytorch.org/vision/stable/index.html
 
+Pre-built tools: 
 TIAToolbox: https://tia-toolbox.readthedocs.io/en/stable/index.html
 Histolab: https://histolab.readthedocs.io/en/latest/
 Lazyslide: https://lazyslide.readthedocs.io/en/latest/
-OpenSlide: https://openslide.org
-
 
 Pierre Cordier, DVM, PhD, Dipl.ECVP.
 03/10/2026
